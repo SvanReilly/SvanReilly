@@ -22,4 +22,4 @@ I'm always open to new opportunities, collaborations or even a interesting talk.
 
 🐺
 🙏🏻
-
+.
