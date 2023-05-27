@@ -10,7 +10,8 @@ Welcome to my GitHub profile! I'm passionate about **C++** videogame-oriented pr
 
 ### Projects
 
-I'm passionate about creating exciting and innovative projects mainly oriented to my final videogame project. Feel free to explore my GitHub repositories to see my work and learning 'til now.
+I'm passionate about creating exciting and innovative projects. In my free time I'm mainly focused on my own videogame project (Lifetime project just for amusements.)
+Feel free to explore my GitHub repositories to see my work and learning process 'til now.
 
 ### Get in Touch
 
