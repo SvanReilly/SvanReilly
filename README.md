@@ -18,7 +18,7 @@ If you have any questions, ideas, or just want to connect, don't hesitate to rea
 - 💼 https://www.linkedin.com/in/svanreilly/
 - 📲 Discord (**Nómada#8707**)
 
-I'm always open to new opportunities, collaborations or even a interesting talk. 
+I'm always open to new opportunities, collaborations or even an interesting talk. 
 
 🐺
 🙏🏻
