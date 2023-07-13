@@ -4,6 +4,7 @@ Welcome to my GitHub profile! I'm passionate about **C++** videogame-oriented pr
 
 ### About Me
 
+- 🗣  Languages: Spanish, French & English.
 - 💻 Interested in: **C++** videogame-oriented programming in **Unreal Engine**, **Python**, **Java**, **JavaScript**.
 - 📚 Currently learning: **C++**, **Python**, **Java**, **JavaScript**.
 - 👥 Looking to collaborate on projects with *reliable* and *dedicated* individuals.
