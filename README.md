@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm passionate about **C++** videogame-oriented pr
 
 If you have any questions, ideas, or just want to connect, don't hesitate to reach out to me through: 
 - 💼 https://www.linkedin.com/in/svanreilly/
-- 📲 Discord (**Nómada#8707**)
+- 📲 Discord (**el_nomada**)
 
 I'm always open to new opportunities, collaborations or even an interesting talk. 
 
