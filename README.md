@@ -1,4 +1,4 @@
-## Hi there, I'm **Alejandro Ortega Maldonado** (aka *Svan Sidis Reilly*) ☝🏻🐺
+## Hi there, I'm **Alejandro Ortega Maldonado** (aka *Svan*) ☝🏻🐺
 
 Welcome to my GitHub profile! I'm passionate about **C++** videogame-oriented programming in **Unreal Engine**, as well as **Python**, **Java**, and **JavaScript**. Currently, I'm actively learning and honing my skills in **C++**, **Python**, **Java**, and **JavaScript**.
 
@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm passionate about **C++** videogame-oriented pr
 
 ### Projects
 
-- I'm passionate about creating kinda exciting and innovative projects. In my free time I'm mainly focused on my own videogame project (Lifetime project just for amusements.)
+- I'm passionate about creating kinda exciting and innovative projects. In my free time I'm mainly focused on my own videogame project (Very long-term project just for amusement.)
 
 - Feel free to explore my GitHub repositories to see my work and learning process 'til now.
 
