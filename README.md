@@ -1,6 +1,6 @@
 ## Hi there, I'm **Alejandro Ortega Maldonado** (aka *Svan*) ☝🏻🐺
 
-Welcome to my GitHub profile! I'm passionate about **C++** videogame-oriented programming in **Unreal Engine**, as well as **Python**, **Java**, and **JavaScript**. Currently, I'm actively learning and honing my skills in **C++**, **Python**, **Java**, and **JavaScript**.
+Welcome to my GitHub profile! I'm so into **Python**, **Java**, and **Kotlin**, as well I've a crush with **C++** videogame-oriented programming in **Unreal Engine**. Currently, I'm actively learning and honing my skills in **Python**, **Java**, and **JavaScript**.
 
 ### About Me
 
