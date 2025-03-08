@@ -5,8 +5,8 @@ Welcome to my GitHub profile! I'm so into **Python**, **Java**, and **Kotlin**, 
 ### About Me
 
 - 🗣  Languages: Spanish, French & English.
-- 💻 Interested in: **C++** videogame-oriented programming in **Unreal Engine**, **Python**, **Java**, **JavaScript**.
-- 📚 Currently learning: **C++**, **Python**, **Java**, **JavaScript**.
+- 💻 Interested in: **C++** videogame-oriented programming in **Unreal Engine**, **Android**, **Python**, **Java**, **JavaScript**.
+- 📚 Related programming languages: **Java**, **SQL**, **XML**, **Python**, **C++**, **HTML/JavaScript**.
 - 👥 Open to collaborate on projects with *reliable* and *dedicated* individuals.
 
 ### Projects
