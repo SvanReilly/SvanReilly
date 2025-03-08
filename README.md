@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm so into **Python**, **Java**, and **Kotlin**, 
 ### About Me
 
 - 🗣  Languages: Spanish, French & English.
-- 💻 Interested in: **C++** videogame-oriented programming in **Unreal Engine**, **Android**, **Python**, **Java**, **JavaScript**.
+- 💻 Interested in: **C++** videogame-oriented programming in **Unreal Engine**, **Android** with **Java** and **Kotlin**.
 - 📚 Related programming languages: **Java**, **SQL**, **XML**, **Python**, **C++**, **HTML/JavaScript**.
 - 👥 Open to collaborate on projects with *reliable* and *dedicated* individuals.
 
@@ -18,10 +18,8 @@ Welcome to my GitHub profile! I'm so into **Python**, **Java**, and **Kotlin**, 
 ### Get in Touch
 
 If you have any questions, ideas, or just want to connect, don't hesitate to reach out to me through: 
-- 💼 https://www.linkedin.com/in/svanreilly/
 - 📲 Discord (**el_nomada**)
-
-I'm always open to new opportunities, collaborations or even an interesting talk. 
+- 💼 https://www.linkedin.com/in/svanreilly/
 
 🐺
 🙏🏻
